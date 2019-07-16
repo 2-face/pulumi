@@ -60,8 +60,8 @@ encryption_key/generate_encryption_key.sh
 * [Bootstrapping the etcd Cluster](https://github.com/kelseyhightower/kubernetes-the-hard-way/blob/master/docs/07-bootstrapping-etcd.md) *`services/generate_etcd_cfg.sh`* will be distributed to controller nodes
 
 * [Bootstraping the Kubernetes Control Plane](https://github.com/kelseyhightower/kubernetes-the-hard-way/blob/master/docs/08-bootstrapping-kubernetes-controllers.md) 
-- *`services/bootstrap_k8s_ctrl_plane.sh`* will be distributed to controller nodes
-- *`services/rbac_for_kubelet_authorization.sh`* will be distributed to controller nodes
+    - *`services/bootstrap_k8s_ctrl_plane.sh`* will be distributed to controller nodes
+    - *`services/rbac_for_kubelet_authorization.sh`* will be distributed to controller nodes
 
 * [Bootstrapping the Kubernetes Worker Nodes](https://github.com/kelseyhightower/kubernetes-the-hard-way/blob/master/docs/09-bootstrapping-kubernetes-workers.md) *`services/bootstrap_k8s_workers.sh`* will be distributed to worker nodes
 
