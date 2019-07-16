@@ -1,0 +1,5 @@
+pulumi>=0.16.4
+pulumi_gcp>=0.16.2
+pulumi_kubernetes
+kubernetes
+google-api-python-client

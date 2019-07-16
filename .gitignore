@@ -1,0 +1,8 @@
+*.pyc
+.vscode
+.DS_Store
+env/
+k8s-hard-way-gcp/__pycache__
+k8s-hard-way-gcp/__main__py.orig
+k8s-hard-way-gcp/gcp_api.py
+k8s-hard-way-gcp/README.md.orig

@@ -1,0 +1,7 @@
+todo:
+  keyword: ":TODO:"
+  caseSensitive: true
+  
+body:
+  keyword: ":BODY"
+  caseSensitive: true

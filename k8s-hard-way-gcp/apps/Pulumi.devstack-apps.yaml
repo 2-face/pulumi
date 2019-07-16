@@ -1,0 +1,5 @@
+config:
+  gcp:project: "pulumi-k8s-hard-way"
+  gcp:zone: "europe-west1-b"
+  gcp:region: "europe-west1"
+  gcp:credentials: "/Users/mimazure/Work/devops/gcloud/credentials/pulumi-k8s-hard-way-a2fcfddef547.json"
